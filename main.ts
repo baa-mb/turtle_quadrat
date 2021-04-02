@@ -9,6 +9,3 @@ for (let index = 0; index < 4; index++) {
     turtle.forward(1)
     turtle.forward(1)
 }
-basic.forever(function () {
-	
-})
